@@ -35,10 +35,10 @@ You can assign any unique name of your choice to ```exp_name```.
 
 # :hugs: Cite
 Please check our works on multi-task scene understanding as this evaluation tool was initially developed for that purpose:
-> [Hanrong Ye](https://sites.google.com/site/yhrspace/) and [Dan Xu](https://www.danxurgb.net/), [TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding](./TaskPrompter/README.md). 
+> [Hanrong Ye](https://sites.google.com/site/yhrspace/) and [Dan Xu](https://www.danxurgb.net/), [TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding](https://github.com/prismformore/Multi-Task-Transformer/tree/main/TaskPrompter). 
 > ICLR 2023
 
-> [Hanrong Ye](https://sites.google.com/site/yhrspace/) and [Dan Xu](https://www.danxurgb.net/), [Inverted Pyramid Multi-task Transformer for Dense Scene Understanding](./InvPT/README.md). 
+> [Hanrong Ye](https://sites.google.com/site/yhrspace/) and [Dan Xu](https://www.danxurgb.net/), [Inverted Pyramid Multi-task Transformer for Dense Scene Understanding](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT). 
 > ECCV 2022
 
 
