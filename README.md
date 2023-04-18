@@ -34,7 +34,7 @@ For example, if your saved directory is structred as  ```somepath/edge```, you s
 You can assign any unique name of your choice to ```exp_name```.
 
 # :hugs: Cite
-Please check our works on multi-task scene understanding which this evaluation is originally designed for:
+Please check our works on multi-task scene understanding as this evaluation tool was initially developed for that purpose:
 > [Hanrong Ye](https://sites.google.com/site/yhrspace/) and [Dan Xu](https://www.danxurgb.net/), [TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding](./TaskPrompter/README.md). 
 > ICLR 2023
 
