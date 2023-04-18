@@ -42,21 +42,6 @@ Please check our works on multi-task scene understanding as this evaluation tool
 > ECCV 2022
 
 
-BibTex:
-```
-@InProceedings{invpt2022,
-  title={Inverted Pyramid Multi-task Transformer for Dense Scene Understanding},
-  author={Ye, Hanrong and Xu, Dan},
-  booktitle={ECCV},
-  year={2022}
-}
-@InProceedings{taskprompter2023,
-  title={TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding},
-  author={Ye, Hanrong and Xu, Dan},
-  booktitle={ICLR},
-  year={2023}
-}
-```
 Please do consider :star2: star our project to share with your community if you find this repository helpful!
 
 # :blush: Contact
