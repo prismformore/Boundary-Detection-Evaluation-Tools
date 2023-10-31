@@ -15,7 +15,7 @@ The code is tested under Python 3.7 and Matlab 8.6.0.267246 (R2015b)
 ### 2. Set up SEISM
 -   Go to ```./seism```
 -   Run ```matlab -nojvm -nodisplay -r "install"```
--   Go to ```./seism/gt_wrappers/db_root_dir.m```, and set your ground-truth dataset paths of PASCAL-Context and NYUD-v2.
+-   Go to ```./seism/src/gt_wrappers/db_root_dir.m```, and set your ground-truth dataset paths of PASCAL-Context and NYUD-v2.
 
 ### 3. Run evaluation codes
 PASCAL-Context:
